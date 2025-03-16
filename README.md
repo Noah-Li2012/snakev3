@@ -1,2 +1,2 @@
 # snakev3
-XD
+A snake game work on mobile and PC
